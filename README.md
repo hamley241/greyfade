@@ -1,5 +1,10 @@
 # GREYFADE: Grey Failure Anomaly Detection Engine
 
+> **Correction, 2026-10-25.** The results in this README and in `figures/` are withdrawn. The baseline
+> ROC curves in Figure 1 are interpolated, not measured; the three reported sets of headline numbers
+> disagree; none can be reproduced as a measurement from this repository; and the benchmark labels share inputs with
+> the detector. Details: [CORRECTIONS.md](CORRECTIONS.md).
+
 **Paper:** "GREYFADE: Real-Time Detection of Semantic Degradation in AI Agents"
 
 This repository contains the code and data to reproduce all results from the paper.
